@@ -1,0 +1,28 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Assessment grading",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReBootKAMP-ME/test.git"
+  },
+  "author": "Yan Fan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReBootKAMP-ME/test/issues"
+  },
+  "homepage": "https://github.com/ReBootKAMP-ME/test#readme",
+  "devDependencies": {
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-mocha": "^1.0.2"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0"
+  }
+}

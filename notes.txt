@@ -1,0 +1,11 @@
+# Overall
+  - There were a lot of problems with syntax---what does this mean?
+    * Misplaced brackets
+  - Need to check console for errors. If there is an error in your console, please see what it is.
+    TODO: attach screenshots of what an error might look like
+    TODO ACTIVITY: fix the broken .js file
+  - Need to style---indenting correctly will help you write better code
+
+# Debugging
+  -
+# How to Help
