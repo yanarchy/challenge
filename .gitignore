@@ -1,0 +1,4 @@
+node_modules
+.git
+.grunt
+.DS_Store

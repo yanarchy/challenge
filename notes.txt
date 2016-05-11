@@ -1,11 +1,34 @@
-# Overall
-  - There were a lot of problems with syntax---what does this mean?
-    * Misplaced brackets
-  - Need to check console for errors. If there is an error in your console, please see what it is.
-    TODO: attach screenshots of what an error might look like
-    TODO ACTIVITY: fix the broken .js file
-  - Need to style---indenting correctly will help you write better code
+# Overall Comments
+Please work on indenting properly and following style conventions for JavaScript. It will make things easier to read.
+File cannot be run
+Syntax errors
+Need to indent
+Does not understand if-statements
+Does not understand for loops, while loops
+Need to understand returns in a function
 
-# Debugging
-  -
-# How to Help
+Functions Completed: /6
+
+## billTotal
+
+## animalNoise
+
+## digitalSum
+
+## fib
+
+## fizzBuzzTwo
+
+## factorial
+
+## Overall Score:
+
+Scores are out of 5.
+1 = Please come speak with an instructor.
+2 = Needs improvement
+3 = Acceptable
+4 = Pretty good!
+5 = Fantastic!
+
+```js
+```

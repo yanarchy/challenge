@@ -12,20 +12,17 @@ function animalNoise(animal, emotion) {
 	if(animal=== "cat") {
 		if (emotion === "happy") {return "happy cat noise";}
 		else if (emotion === "sad") {return "sad cat noise";}
-		else {return "ungry cat noise";}
-		// else (emotion === "ungry") {return "ungry cat noise";}
+		else (emotion === "ungry") {return "ungry cat noise";}
 		 }
   else if (animal=== "dog") {
 		if (emotion === "happy") {return "happy dog noise";}
 		else if (emotion === "sad") {return "sad dog noise";}
-		else {return "ungry dog noise";}
-		// else (emotion === "ungry") {return "ungry dog noise";}
+		else (emotion === "ungry") {return "ungry dog noise";}
 		 }
   else if (animal=== "dog") {
 		if (emotion === "happy") {return "happy dog noise";}
 		else if (emotion === "sad") {return "sad dog noise";}
-		else {return "ungry dog noise";}
-		// else (emotion === "ungry") {return "ungry dog noise";}
+		else (emotion === "ungry") {return "ungry dog noise";}
 		 }
 
 	}

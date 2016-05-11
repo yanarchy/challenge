@@ -19,6 +19,7 @@
   "devDependencies": {
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-duplicate": "^0.1.2",
     "grunt-mocha": "^1.0.2"
   },
   "dependencies": {
