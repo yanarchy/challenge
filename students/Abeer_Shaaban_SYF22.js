@@ -28,7 +28,6 @@ function animalNoise(animal, emotion) {
 	}
 
   // TODO: your code here
-}
 
 
 var nu ;

@@ -7,18 +7,17 @@ function billTotal(subtotal) {
   return total;
 }
 }
-​
+
 function animalNoise(animal,emotion) {
  var result="";
 
 }
-​
+
 function digitalSum(n) {
 	//
-​
+
 }
-​
-​
+
 function fib(n) {
   if (n===0 || n===1){
  	return 1;
@@ -26,11 +25,11 @@ function fib(n) {
   else
  return fib(n-1)+fib(n-2);
   }
-​
+
 function fizzBuzzTwo(wordA, wordB) {
   // TODO: your code here
 }
-​
+
 function factorial(n) {
   var x=1;
 while (n>0){

@@ -3,7 +3,7 @@ function billTotal(subtotal) {
   subtotal = subtotal*(1+0.2+0.8);
   return subtotal;
 }
-​
+
 function animalNoise(animal,emotion)
 {
  if (animal === "cat")
@@ -17,8 +17,8 @@ else return "MEYAW"
     return "KWAK";
    }
 }
-​
-​
+
+
 function digitalSum(n) {
   // TODO: your code here
     var   r = n% 10;
@@ -29,7 +29,7 @@ function digitalSum(n) {
     }
     return sum;
 }
-​
+
 function fib(n) {
   // TODO: your code here
  if (n == 0)
@@ -39,7 +39,7 @@ function fib(n) {
     else
       return (n-1)+(n-2);
 }
-​
+
 function fizzBuzzTwo(wordA, wordB) {
   // TODO: your code here
   for (var i = 100; i >= 0; i--)
@@ -52,7 +52,7 @@ function fizzBuzzTwo(wordA, wordB) {
 }
 }
   }
-​
+
 fact=1;
 function factorial(n)
 {
@@ -62,4 +62,3 @@ if (n>0) {
 }
 return fact;
 }
-​

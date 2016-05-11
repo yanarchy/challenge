@@ -5,9 +5,9 @@ function billTotal(subtotal) {
   totalcost = subtotal + tip + tax;
   return totalcost;
 }
-​
+
 function animalNoise(animal , emotion) {
-​
+
      var noise;
 	if(animal === "cat" && emotion === "angry")
        noise = "😡 meeeeeaaawwww";
@@ -19,11 +19,11 @@ function animalNoise(animal , emotion) {
    	noise="😳 meawwww!";
    else if (animal === "chicken" && emotion === "angry")
    	noise="😠 kukukuuu";
-​
+
    return noise;
   }
-​
-​
+
+
 function digitalSum(n) {
 	var digit;
 	var digitsum = "";
@@ -35,14 +35,14 @@ function digitalSum(n) {
   }
   return digitsum;
 }
-​
+
 function fib(n) {
   if(n === 0 || n === 1 )
   	return 1;
   else
   	return fib(n-1)+ fib(n-2);
 }
-​
+
 function fizzBuzzTwo(wordA, wordB) {
   for(var i =1 ; i<=100 ; i++)
   {
@@ -52,10 +52,10 @@ function fizzBuzzTwo(wordA, wordB) {
      	 console.log(wordB);
      else
      	 console.log(i);
-​
+
   }
 }
-​
+
 function factorial(n) {
   if(n=== 0 || n===1)
   	return 1;

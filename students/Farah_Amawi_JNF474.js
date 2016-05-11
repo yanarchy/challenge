@@ -5,7 +5,7 @@ var tax = .08;
 	return "bill =" + total +" JOD" ;
   // TODO: your code here
 }
-​
+
 function animalNoise(animal , emotion) {
 	if(animal === "dog" && emotion === "angry"){return "howhowhow";}
 	if(animal === "dog" && emotion === "calm"){return "hohoho" ;}
@@ -23,7 +23,7 @@ sum = sum + w;
 digitalSum(n) ;}
 return sum ;
 }
-​
+
 function fib(n) {
 	var num ;
   if (n === 0 ){num = 0;}
@@ -32,7 +32,7 @@ function fib(n) {
   	fib(n);}
   return num ;
 }
-​
+
 function fizzBuzzTwo(wordA, wordB) {
   for (var i=0 ; i<=100 ;i++){
   	if (i%3 === 0){ console.log (wordA);}
@@ -40,7 +40,7 @@ function fizzBuzzTwo(wordA, wordB) {
   	console.log(i);
   }
 }
-​
+
 function factorial(n) {
   var w = n;
   for (var i = 1 ; i<w ; i++){

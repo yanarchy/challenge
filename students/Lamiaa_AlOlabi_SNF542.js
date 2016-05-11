@@ -1,12 +1,11 @@
 function billTotal(subtotal) {
 	return (0.2*subtotal)+(0.08*subtotal);
 }
-​
-function animalNoise(animal, emotion) {
 
+function animalNoise(animal, emotion) {
   return ;
 }
-​
+
 function digitalSum(n) {
   var rem = n % 10;
   var sum = rem;
@@ -16,7 +15,7 @@ function digitalSum(n) {
   }
   return sum;
 }
-​
+
 function fib(n) {
 	if (n === 0 ) {
 	return 0;
@@ -28,7 +27,7 @@ function fib(n) {
     return fib(n-1) + fib(n-2);
 }
 }
-​
+
 function fizzBuzzTwo(wordA, wordB) {
   if (wordA*3) {
   return "fizz";
@@ -41,7 +40,7 @@ function fizzBuzzTwo(wordA, wordB) {
   	return "fizzBuzzTwo"
   }
 }
-​
+
 function factorial(n) {
   if ( n === 0 ) {
   	return 0;
@@ -52,4 +51,8 @@ function factorial(n) {
   else {
   	return n * factorial (n - 1);
   }
+}
+
+function helloWorld {
+  console.log("helloWorld")
 }

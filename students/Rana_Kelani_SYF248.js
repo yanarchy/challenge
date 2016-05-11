@@ -3,9 +3,9 @@ function billTotal(subtotal) {
 	tip= subtotal*0.20;
 	total=subtotal+ tax+tip;
 	return total;
-​
+
 }
-​
+
 function animalNoise(animal, emotion) {
   if(emotion==="happy"){
   	result= animal+ ":)";
@@ -18,7 +18,7 @@ function animalNoise(animal, emotion) {
   }
   return result;
 }
-​
+
 /*function digitalSum(n) {
 	var result=0;
  	for(i){
@@ -35,7 +35,7 @@ function fib(n) {
 
   return fib(n-1)+fib(n-2);
 }
-​
+
 function fizzBuzzTwo(wordA, wordB) {
 	var result="";
 
@@ -56,12 +56,12 @@ function fizzBuzzTwo(wordA, wordB) {
 	}
 	 return result;
 	}
-​
+
 function factorial(n) {
   // TODO: your code here
 	if(n===1){
 		return 1
 	}
 	return n*factorial(n-1);
-​
+
 }

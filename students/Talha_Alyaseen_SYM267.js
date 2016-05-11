@@ -16,10 +16,8 @@ function digitalSum(n)
 	if (x <= n.length)
       sum = sum + n.slice(x-1);
   return sum;
-​
-​
 }
-​
+
 function fizzBuzzTwo(wordA,wordB)
 {
 	var x= wordA;

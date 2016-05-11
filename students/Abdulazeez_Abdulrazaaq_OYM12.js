@@ -3,8 +3,6 @@ function billTotal(subtotal) {
 
 	return subtotal+0.20*(subtotal)+0.08*(subtotal)
 }
-here
-}
 
 function animalNoise() {
 
@@ -22,14 +20,13 @@ function digitalsum(n){
      var x = n.toString();
      var y = x.split("");
      var result=0;
-}
+
 for (var i=0; i<y.length; i=i+1){
 
  result=result+y[i]
 
-}
 
-  // TODO: your code here
+}
 }
 
 function fib(n) {
